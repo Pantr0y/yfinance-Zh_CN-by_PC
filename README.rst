@@ -45,7 +45,7 @@ and Pythonic way to download historical market data from Yahoo! finance.
 NOTE
 ~~~~
 
-The library was originally named ``fix-yahoo-finance``, but
+这个库 was originally named ``fix-yahoo-finance``, but
 I've since renamed it to ``yfinance`` as I no longer consider it a mere "fix".
 For reasons of backward-competability, ``fix-yahoo-finance`` now import and
 uses ``yfinance``, but you should install and use ``yfinance`` directly.
