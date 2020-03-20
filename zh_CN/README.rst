@@ -50,8 +50,7 @@ I've since renamed it to ``yfinance`` as I no longer consider it a mere "fix".
 For reasons of backward-competability, ``fix-yahoo-finance`` now import and
 uses ``yfinance``, but you should install and use ``yfinance`` directly.
 
-这个库原本是叫 ``fix-yahoo-finance``, 但
-我觉得我所做的不仅仅是“修复工作”了，所以我给他起了个新名字，“yfinance”。
+这个库原本是叫 ``fix-yahoo-finance``, 但我觉得我所做的不仅仅是“修复工作”了，所以我给他起了个新名字，“yfinance”。
 由于向后兼容的原因（译者：原文这里的backward-competability，是不是应该是backward-compatability）, ``fix-yahoo-finance`` 引用和使用了 ``yfinance``, 但对于你来说，你应该直接安装和使用 ``yfinance``.
 
 `Changelog » <./CHANGELOG.rst>`__
